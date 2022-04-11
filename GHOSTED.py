@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-import random
-from useragent import UserAgent 
 
-x=UserAgent(family='chrome')
+ 
 
 
-b=x.random()
-print(b)
+
+
+
+
 import requests,bs4,json,os,sys,random,datetime,time,re
 try:
 	import rich
