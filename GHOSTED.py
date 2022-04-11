@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 import random
-from my_fake_useragent import UserAgent 
+from useragent import UserAgent 
 
 x=UserAgent(family='chrome')
 
