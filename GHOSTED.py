@@ -13,7 +13,7 @@ try:
 	import rich
 except ImportError:
 	os.system('pip install rich')
-	time.sleep(1)
+	time.sleep(1) 
 	try:
 		import rich
 	except ImportError:
@@ -70,16 +70,17 @@ def banner():
 	
 
 
-/ \  | | ___  ___| |__ 
 
-/ _ \ | |/ _ \/ __| '_ \ 
 
-/ ___ \| | (_) \__ \ | | |
 
-/_/   \_\_|\___/|___/_|    
-     
+
+
+
+
+        wel = '# DECODED BY A NIGERIA MONSTER (GHOSTSON)'
+	
 	wel = '# WELCOME TO FACEBOOK WORLD TOOLS 2022'
-	wel2 = mark(wel, style='cyan')
+	wel= mark(wel, style='cyan')
 	sol().print(wel2)
 	au='AUTHOR    :  Ahmed Alzwage \nGITHUB    :  https://github.com/Libya.pro\nWHATSAPP  :  0921762445'
 	pengembang1=nel(au,style="cyan")
