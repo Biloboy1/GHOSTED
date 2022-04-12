@@ -67,6 +67,7 @@ def back():
 # BANNER
 def banner():
 	clear()
+	
 \033[1;32m          _    _           _     
 \033[1;32m
 \033[1;32m         / \  | | ___  ___| |__ 
