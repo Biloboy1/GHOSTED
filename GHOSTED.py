@@ -77,10 +77,10 @@ def banner():
 
 
 
-        wel = '# DECODED BY A NIGERIA MONSTER (GHOSTSON)'
+        
 	
 	wel = '# WELCOME TO FACEBOOK WORLD TOOLS 2022'
-	wel= mark(wel, style='cyan')
+	wel2 = mark(wel, style='cyan')
 	sol().print(wel2)
 	au='AUTHOR    :  Ahmed Alzwage \nGITHUB    :  https://github.com/Libya.pro\nWHATSAPP  :  0921762445'
 	pengembang1=nel(au,style="cyan")
